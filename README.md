@@ -58,3 +58,12 @@ This project helps in understanding how digital marketing campaigns can be evalu
 ## 📎 Note
 
 This project is created for learning purposes only and does not include any real client or proprietary data. purposes
+
+## 👨‍💻 Author
+
+**Prahlad Somapurkar**
+
+- 💼 Aspiring Data Analyst
+- 📧 Email: prahladsomapurkar@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/analyst-prahlad
+- 💻 GitHub: https://github.com/analyst-prahlad
